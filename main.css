@@ -1,0 +1,12 @@
+body{
+background-color: bisque;
+}
+/* Center div using css */
+/* Identify tag to apply rule */
+div{
+    /* To center a div we have to change its dimensions i.e width and heights. */
+    width: 500px;
+    height: 700px;
+    margin: o auto;
+    border: 1px solid bisque;
+}
